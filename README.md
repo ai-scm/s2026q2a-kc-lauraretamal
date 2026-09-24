@@ -1,4 +1,4 @@
-# Keycloak + Google + FastAPI
+# Keycloak con autenticación externa y aplicación dummy
 
 Integración de Keycloak con Google como proveedor externo de identidad y una aplicación web desarrollada con FastAPI mediante OpenID Connect.
 
